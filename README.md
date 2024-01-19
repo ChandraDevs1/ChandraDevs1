@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="right">
 <img src =“https://i.gifer.com/5TMy.gif” width=200px length=200px>
   <img src=“https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif” width=200px length=200px>
-<img src=“https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif” alt=“routine” width=200px length=200px>
+<img src=“https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif” width=200px length=200px>
 <img src =“https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif” width=200px length=200px>
 </p>
 Web Developer , Software Engineer
