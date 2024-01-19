@@ -3,7 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <p align="right">
-  <img  width = 400 alt="Coding" src="https://i.gifer.com/5TMy.gif">
+<img src =“https://i.gifer.com/5TMy.gif”>
+  <img src=“https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif” >
+<img src=“https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif” alt=“routine”>
+<img src =“https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif” >
 </p>
 Web Developer , Software Engineer
 
