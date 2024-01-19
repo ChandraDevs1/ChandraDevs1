@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chandra Pratap Shah
 ===========================================================================================================================================
-
+Web Developer , Software Engineer ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="right">
 <img src =“https://i.gifer.com/5TMy.gif” width=200px length=200px>
@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src=“https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif” width=200px length=200px>
 <img src =“https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif” width=200px length=200px>
 </p>
-Web Developer , Software Engineer
+
 
 
 \## 🌱 Hello, World! I'm Chandra Pratap, a computer science student with a passion for technology and a curious mind eager to explore the world of coding and development. ### 👨‍💻 Currently Learning I'm in the early stages of my academic journey, diving into the fundamentals of programming, algorithms,data structures and Web development . ### 🚀 What Excites Me While I may be a newcomer, I'm fascinated by the potential of technology to solve problems and make a positive impact on the world. ### 📚 Goals for the Future My goal is to absorb as much knowledge as I can during my academic journey and eventually contribute to the tech community. ### 🤝 Let's Learn Together! I'm here to connect with fellow learners, experienced developers, and anyone passionate about technology. If you have advice, resources, or just want to chat about coding, feel free to reach out! Thanks for stopping by my GitHub! Let's embark on this coding adventure together! 🚀
